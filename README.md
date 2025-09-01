@@ -1,4 +1,4 @@
-# SongSmoothieSoup - A Custom Song Recommendation System
+# SongSoupSelector - A Custom Song Recommendation System
 
 ### About
 An application that provides a list of similar songs based on a user's own selection of songs. I made this application to practice my knowledge in recommendation systems and API utilization, but you are free to try this application for yourself if you'd like. Below are the steps I'd take if you're curious.
